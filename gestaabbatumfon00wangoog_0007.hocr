@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./gestaabbatumfon00wangoog_0007.png"; bbox 0 0 2850 4896; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 664 502 1012 628">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 664 502 1012 628">
+     <span class='ocr_line' id='line_1_1' title="bbox 664 502 1012 628; baseline -0.006 -1"><span class='ocrx_word' id='word_1_1' title='bbox 664 535 968 628; x_wconf 71' lang='lat' dir='ltr'>scfflPToREs</span> <span class='ocrx_word' id='word_1_2' title='bbox 1006 502 1012 511; x_wconf 82' lang='grc'><strong><em>’</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 251 967 1379 1142">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 251 967 1379 1142">
+     <span class='ocr_line' id='line_1_2' title="bbox 251 967 1379 1142; baseline 0.001 -3"><span class='ocrx_word' id='word_1_3' title='bbox 251 967 576 1141; x_wconf 72' lang='lat' dir='ltr'>RERUM</span> <span class='ocrx_word' id='word_1_4' title='bbox 634 967 1379 1142; x_wconf 68' lang='lat' dir='ltr'><strong>GERMANIOARUM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 315 1987 1315 2065">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 315 1987 1315 2065">
+     <span class='ocr_line' id='line_1_3' title="bbox 315 1987 1315 2065; baseline 0.004 -4"><span class='ocrx_word' id='word_1_5' title='bbox 315 1987 658 2064; x_wconf 82' lang='lat' dir='ltr'>MONUMENTIS</span> <span class='ocrx_word' id='word_1_6' title='bbox 687 1989 995 2064; x_wconf 81' lang='lat' dir='ltr'>GERMANIAE</span> <span class='ocrx_word' id='word_1_7' title='bbox 1021 1988 1315 2065; x_wconf 81' lang='lat' dir='ltr'>HISTORIOIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 721 2222 902 2585">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 721 2222 902 2585">
+     <span class='ocr_line' id='line_1_4' title="bbox 731 2222 894 2288; baseline 0.018 -3"><span class='ocrx_word' id='word_1_8' title='bbox 731 2222 894 2288; x_wconf 82' lang='lat' dir='ltr'><strong>REOUSI.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 721 2414 902 2585; baseline -0.017 0"><span class='ocrx_word' id='word_1_9' title='bbox 721 2414 902 2585; x_wconf 43' lang='grc' dir='ltr'><strong>[Β]</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 430 3229 1195 3295">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 430 3229 1195 3295">
+     <span class='ocr_line' id='line_1_6' title="bbox 430 3229 1195 3295; baseline -0.004 -1"><span class='ocrx_word' id='word_1_10' title='bbox 430 3229 558 3294; x_wconf 76' lang='lat' dir='ltr'><strong>GESTA</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 582 3229 777 3294; x_wconf 81' lang='grc' dir='ltr'><strong>ΑΒΒΑΤΠΜ</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 799 3229 1195 3295; x_wconf 78' lang='lat' dir='ltr'><strong>FONTANELLENSIUM.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1430 4896">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1430 4896">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 0 1430 4896; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 1430 4896; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
